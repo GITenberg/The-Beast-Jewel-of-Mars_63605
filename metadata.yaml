@@ -1,5 +1,5 @@
 _repo: The-Beast-Jewel-of-Mars_63605
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Emshwiller, Ed
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 63605-h/images/cover.jpg
 creator:
   author:
     agent_name: Thiessen, V. E.
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '33840'
     url: http://www.gutenberg.org/2009/agents/33840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63605#The-Beast-Jewel-of-Mars
 gutenberg_issued: '2020-11-02'
 gutenberg_type: Text
 identifiers:
