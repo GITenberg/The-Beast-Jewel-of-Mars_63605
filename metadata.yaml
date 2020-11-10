@@ -1,0 +1,42 @@
+_repo: The-Beast-Jewel-of-Mars_63605
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Alexander, Ed
+    - Willer
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Thiessen, V. E.
+    alias: Thiessen, W. E.
+    gutenberg_agent_id: '33840'
+    url: http://www.gutenberg.org/2009/agents/33840
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Legends -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Beast-Jewel of Mars
+url: http://www.gutenberg.org/ebooks/63605
